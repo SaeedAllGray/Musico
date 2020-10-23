@@ -1,0 +1,21 @@
+
+/* Class = "UILabel"; text = "Loaded by FirstViewController"; ObjectID = "A5M-7J-77L"; */
+"A5M-7J-77L.text" = "Loaded by FirstViewController";
+
+/* Class = "UILabel"; text = "First View"; ObjectID = "KQZ-1w-vlD"; */
+"KQZ-1w-vlD.text" = "First View";
+
+/* Class = "UILabel"; text = "Loaded by SecondViewController"; ObjectID = "NDk-cv-Gan"; */
+"NDk-cv-Gan.text" = "Loaded by SecondViewController";
+
+/* Class = "UITabBarItem"; title = "Library"; ObjectID = "acW-dT-cKf"; */
+"acW-dT-cKf.title" = "Library";
+
+/* Class = "UITabBarItem"; title = "Favorites"; ObjectID = "cPa-gy-q4n"; */
+"cPa-gy-q4n.title" = "Favorites";
+
+/* Class = "UILabel"; text = "Second View"; ObjectID = "zEq-FU-wV5"; */
+"zEq-FU-wV5.text" = "Second View";
+
+/* Class = "UITabBarItem"; title = "Now Playing"; ObjectID = "zfj-qH-mKt"; */
+"zfj-qH-mKt.title" = "Now Playing";
