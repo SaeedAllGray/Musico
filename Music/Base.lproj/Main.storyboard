@@ -312,12 +312,6 @@
                                     </tableViewCell>
                                 </cells>
                             </tableViewSection>
-                            <tableViewSection headerTitle="about" footerTitle="Now I am here along side you. Report any bug you face or any brainstorm to improve this app." id="S23-AI-Aik">
-                                <cells/>
-                            </tableViewSection>
-                            <tableViewSection headerTitle="easter egg" footerTitle="I have two funny surprises for you.  Discover the easter eggs, would you?" id="4iQ-xW-Muj">
-                                <cells/>
-                            </tableViewSection>
                         </sections>
                         <connections>
                             <outlet property="dataSource" destination="5pF-tt-0dA" id="m6Y-1H-Hvj"/>
