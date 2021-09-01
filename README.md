@@ -12,3 +12,4 @@ We are cautious about some aspects so some features are yet to enable.
 
 
 # Musico is available in Biggboss Repository and you can install it after jaimlbraking your iPhone or iPad.
+https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=musicoDp
